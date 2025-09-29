@@ -1,6 +1,6 @@
 # sovia
 p
-![sovia](imgur.com image replace me!)
+![sovia](https://imgur.com/a/WfGpyva)
 
 Sovia is Raspberry pi pico rp2040 powered handwired arisu layout, with trackpoint implemented. fun side project to do in saturday night after collage.
 
