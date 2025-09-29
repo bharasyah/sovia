@@ -1,11 +1,11 @@
 # sovia
-
+p
 ![sovia](imgur.com image replace me!)
 
 Sovia is fun side project to do in saturday night after collage
 
 * Keyboard Maintainer: [bharasyah](https://github.com/bharasyah)
-* Hardware Supported: Handwired keyboard powered by Arduino Micro Atmega32u4
+* Hardware Supported: Handwired keyboard powered by Raspberry PI PICO RP2040
 * Hardware Availability: make it by yourself
 
 Make example for this keyboard (after setting up your build environment):
