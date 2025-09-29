@@ -2,7 +2,7 @@
 p
 ![sovia](imgur.com image replace me!)
 
-Sovia is fun side project to do in saturday night after collage
+Sovia is Raspberry pi pico rp2040 powered handwired arisu layout, with trackpoint implemented. fun side project to do in saturday night after collage.
 
 * Keyboard Maintainer: [bharasyah](https://github.com/bharasyah)
 * Hardware Supported: Handwired keyboard powered by Raspberry PI PICO RP2040
