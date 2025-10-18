@@ -1,5 +1,5 @@
 {
-    "manufacturer": "bharasyah",
+    "manufacturer": "Vasaworks",
     "keyboard_name": "sovia",
     "maintainer": "bharasyah",
     "url": "bharasyah.github.io",
@@ -7,8 +7,8 @@
     "bootloader": "rp2040",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0x0001",
+        "vid": "0x7677"
     },
     "diode_direction": "COL2ROW",
     "features": {
