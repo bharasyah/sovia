@@ -2,7 +2,6 @@
 [sovia](https://imgur.com/a/WfGpyva)
 
 Sovia is Raspberry pi pico rp2040 and QMK Firmware powered handwired arisu layout, with trackpoint implemented. fun side project to do in saturday night after collage.
-vial available
 
 * Keyboard Maintainer: [bharasyah](https://github.com/bharasyah)
 * Hardware Supported: Handwired keyboard powered by Raspberry PI PICO RP2040
