@@ -1,5 +1,5 @@
 # sovia
-[sovia](https://imgur.com/a/WfGpyva)
+[sovia](https://imgur.com/a/DRn5n0T)
 
 Sovia is Raspberry pi pico rp2040 and QMK Firmware powered handwired arisu layout, with trackpoint implemented. fun side project to do in saturday night after collage.
 
